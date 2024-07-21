@@ -10,6 +10,8 @@ The Library Management System project, built in PHP and Mysql
 
 - More previews in /preview🤩
 
+**Don't Forgot to download PHP Mailer**
+
 ## Developed by 💻 
 
 - [@Arash_aio](https://https://t.me/arash_aio)
@@ -34,4 +36,4 @@ The Library Management System project, built in PHP and Mysql
 - Edit Admin Username and Password 💎
 - Logout From Admin panel 💎
 
-##Developed at 22/4/2024 By ARASHNASRIVATAN 👀
+## Developed at 22/4/2024 By ARASHNASRIVATAN 👀

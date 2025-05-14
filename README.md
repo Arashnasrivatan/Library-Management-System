@@ -6,7 +6,7 @@ The Library Management System project, built in PHP and Mysql
 
 ## Screenshot
 
-![App Screenshot](https://arashnasri.com/assets/images/663bca5994641.png)
+![App Screenshot](https://raw.githubusercontent.com/Arashnasrivatan/Library-Management-System/refs/heads/main/preview/index.png)
 
 - More previews in /preview🤩
 
